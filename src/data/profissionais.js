@@ -1,0 +1,51 @@
+export const profissionais = [
+   
+  {
+    id: 1,
+    nome: "Carlos Oliveira",
+    profissao: "Eletricista",
+    cidade: "Araçuaí, MG",
+    experiencia: 5,
+    avaliacao: "4.8",
+  },
+  {
+    id: 2,
+    nome: "Mariana Santos",
+    profissao: "Pintora",
+    cidade: "Araçuaí, MG",
+    experiencia: 4,
+    avaliacao: "4.9",
+  },
+  {
+    id: 3,
+    nome: "João Ferreira",
+    profissao: "Pedreiro",
+    cidade: "Araçuaí, MG",
+    experiencia: 8,
+    avaliacao: "4.7",
+  },
+  {
+    id: 4,
+    nome: "Ana Costa",
+    profissao: "Marceneira",
+    cidade: "Araçuaí, MG",
+    experiencia: 6,
+    avaliacao: "4.9",
+  },
+  {
+    id: 5,
+    nome: "Pedro Almeida",
+    profissao: "Encanador",
+    cidade: "Araçuaí, MG",
+    experiencia: 7,
+    avaliacao: "4.8",
+  },
+  {
+    id: 6,
+    nome: "Lucas Martins",
+    profissao: "Vidraceiro",
+    cidade: "Araçuaí, MG",
+    experiencia: 3,
+    avaliacao: "4.6",
+  },
+];
